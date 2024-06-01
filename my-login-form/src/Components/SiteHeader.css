@@ -1,0 +1,26 @@
+/* SiteHeader.css */
+.site-header {
+    background-color: #001529;
+  }
+  
+  .site-header .logo {
+    height: 32px;
+    margin-right: 20px;
+  }
+  
+  .site-header .ant-menu {
+    line-height: 64px;
+  }
+  
+  .site-header .ant-menu-item {
+    font-size: 16px;
+  }
+  
+  .site-header .ant-menu-item a {
+    color: #fff;
+  }
+  
+  .site-header .ant-menu-item a:hover {
+    color: #1890ff;
+  }
+  
